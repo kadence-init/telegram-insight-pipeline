@@ -44,8 +44,8 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/kadence-init/TARS.git
-cd TARS
+git clone https://github.com/kadence-init/telegram-insight-pipeline.git
+cd telegram-insight-pipeline
 ```
 
 ### 2. Создание и активация виртуального окружения
