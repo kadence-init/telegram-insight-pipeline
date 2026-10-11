@@ -1,4 +1,4 @@
-# TARS (Telegram Analytic & Reporting System)
+# Проект: TARS (Telegram Analytic & Reporting System)
 
 **TARS** — это комплексный ETL-пайплайн, который в реальном времени собирает новостные посты из Telegram-каналов, производит их глубокий анализ с помощью AI-модели GigaChat и визуализирует полученные инсайты на интерактивном дашборде.
 
